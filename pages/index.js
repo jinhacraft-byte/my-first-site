@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <main style={{ backgroundColor: "#05070d", color: "#f2f4f8" }}>
       
-      {/* 1층: 메인 비디오 화면 (bg.mp4 적용 완료) */}
+      {/* 1층: 메인 비디오 화면 (sakura.mp4 적용) */}
       <MetroHero
-        videoSrc="/bg.mp4"
+        videoSrc="/sakura.mp4"
         title="아자스!"
         tagline="대학생 일본어 교류회 3기 신규 멤버 모집 🌸"
         scrollHint="스크롤을 내려 자세히 보기"
